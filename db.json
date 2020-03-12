@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "docs": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 4, "title": "Post 3" },
@@ -8,11 +8,11 @@
     { "id": 7, "title": "Post 3" }
     
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-    { "id": 3, "body": "some comment", "postId": 1 },
-    { "id": 4, "body": "some comment", "postId": 1 }
+  "facs": [
+    { "id": 1, "body": "some comment"},
+    { "id": 2, "body": "some comment"},
+    { "id": 3, "body": "some comment"},
+    { "id": 4, "body": "some comment"}
   ],
   "profile": {
     "name": "typicode"
