@@ -1,19 +1,28 @@
-
-[
-  {
-    "name": "med1",
-    "doc": "Cezar"
-  },
-  {
-    "name": "med2",
-    "doc": "Kant"
-  },
-  {
-    "name": "med3",
-    "doc": "Arystoteles"
-  },
-  {
-    "name": "med4",
-    "doc": "Platon"
-  }
-]
+{
+  "docs": [
+    {
+      "id": 1,
+      "title": "academy"
+    },
+    {
+      "id": 2,
+      "title": "academy 2"
+    },
+    {
+      "id": 3,
+      "title": "Academy 3"
+    }
+  ],
+  "facs": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
