@@ -2,53 +2,53 @@
   "docs": [
     {
       "id": 1,
-      "title": "academy 1"
+      "title": "Great dentist"
     },
     {
       "id": 2,
-      "title": "academy 2"
+      "title": "Your doctor"
     },
     {
       "id": 3,
-      "title": "Academy 3"
+      "title": "Doctor for everyone"
     },
      {
       "id": 4,
-      "title": "Academy 4"
+      "title": "Classic Doctor"
     },
      {
       "id": 5,
-      "title": "Academy 5"
+      "title": "Too many doctors"
     },
      {
       "id": 6,
-      "title": "Academy 6"
+      "title": "Cat doctor"
     }
   ],
   "facs": [
     {
       "id": 1,
-      "body": "doc1",
+      "body": "Big facility",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "doc2",
+      "body": "Small facility",
       "postId": 1
     },
     {
       "id": 3,
-      "body": "doc3",
+      "body": "Sometimes small, sometimes big",
       "postId": 1
     },
     {
       "id": 4,
-      "body": "doc4",
+      "body": "The best one",
       "postId": 1
     },
     {
       "id": 5,
-      "body": "doc5",
+      "body": "Just NFZ",
       "postId": 1
     }
   ]
