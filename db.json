@@ -50,6 +50,11 @@
       "id": 5,
       "body": "Fireball XL5",
       "postId": 1
+    },
+     {
+      "id": 6,
+      "body": "My own",
+      "postId": 1
     }
   ]
 }
