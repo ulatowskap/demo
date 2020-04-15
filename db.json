@@ -1,54 +1,54 @@
 {
-  "docs": [
+  "movies": [
     {
       "id": 1,
-      "title": "Great dentist"
+      "title": "Star Wars"
     },
     {
       "id": 2,
-      "title": "Your doctor"
+      "title": "Star Trek"
     },
     {
       "id": 3,
-      "title": "Doctor for everyone"
+      "title": "Life"
     },
      {
       "id": 4,
-      "title": "Classic Doctor"
+      "title": "Ad astra"
     },
      {
       "id": 5,
-      "title": "Too many doctors"
+      "title": "Interstellar"
     },
      {
       "id": 6,
-      "title": "Cat doctor"
+      "title": "Avatar"
     }
   ],
-  "facs": [
+  "projects": [
     {
       "id": 1,
-      "body": "Big facility",
+      "body": "Millenium Falcon",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "Small facility",
+      "body": "Event Horizon",
       "postId": 1
     },
     {
       "id": 3,
-      "body": "Sometimes small, sometimes big",
+      "body": "Battlestar Gallactica",
       "postId": 1
     },
     {
       "id": 4,
-      "body": "The best one",
+      "body": "Gunstar",
       "postId": 1
     },
     {
       "id": 5,
-      "body": "Just NFZ",
+      "body": "FireBall XL5",
       "postId": 1
     }
   ]
