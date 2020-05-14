@@ -1,60 +1,85 @@
 {
-  "movies": [
+  "users": [],
+  "rooms": [
     {
       "id": 1,
-      "title": "Star Wars"
+      "name": "Pokój unarny",
+      "beds": 1,
+      "guests": 1,
+      "price": 170
     },
     {
       "id": 2,
-      "title": "Star Trek"
+      "name": "Pokój binarny",
+      "beds": 1,
+      "guests": 2,
+      "price": 240
     },
     {
       "id": 3,
-      "title": "Life"
+      "name": "Pokój trójkowy",
+      "beds": 2,
+      "guests": 3,
+      "price": 290
     },
-     {
+    {
       "id": 4,
-      "title": "Ad astra"
-    },
-     {
-      "id": 5,
-      "title": "Interstellar"
-    },
-     {
-      "id": 6,
-      "title": "Avatar"
+      "name": "Pokój czwórkowy",
+      "beds": 2,
+      "guests": 4,
+      "price": 340
     }
   ],
-  "projects": [
+  "treatments": [
     {
       "id": 1,
-      "body": "Millenium Falcon",
-      "postId": 1
+      "name": "Masaż rozgrzanym monitorem",
+      "area": "back",
+      "time": 30,
+      "price": 80
     },
     {
       "id": 2,
-      "body": "Event Horizon",
-      "postId": 1
+      "name": "Biczowanie kablem od myszy",
+      "area": "back",
+      "time": 20,
+      "price": 70
     },
     {
       "id": 3,
-      "body": "Battlestar Gallactica",
-      "postId": 1
+      "name": "Peeling odłamkami płyty CD",
+      "area": "face",
+      "time": 15,
+      "price": 50
     },
     {
       "id": 4,
-      "body": "Gunstar",
-      "postId": 1
+      "name": "Pedicure woskiem z USB",
+      "area": "legs",
+      "time": 25,
+      "price": 100
     },
     {
       "id": 5,
-      "body": "Fireball XL5",
-      "postId": 1
+      "name": "Manicure analogowo-cyfrowy",
+      "area": "hands",
+      "time": 45,
+      "price": 150
     },
-     {
+    {
       "id": 6,
-      "body": "My own",
-      "postId": 1
+      "name": "Kąpiel w gorącej kawie",
+      "area": "body",
+      "time": 60,
+      "price": 200
+    },
+    {
+      "id": 7,
+      "name": "Depilacja dyskiem twardym",
+      "area": "body",
+      "time": 45,
+      "price": 120
     }
   ]
 }
+ 
