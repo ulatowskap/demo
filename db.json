@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Pokój binarny",
-      "photo": "https://cdn.pixabay.com/photo/2016/10/18/09/02/hotel-1749602_960_720.jpg",
+      "photo": "https://cdn.pixabay.com/photo/2018/06/14/21/15/the-interior-of-the-3475656_960_720.jpg",
       "beds": 1,
       "guests": 2,
       "price": 240
@@ -28,7 +28,7 @@
     {
       "id": 4,
       "name": "Pokój czwórkowy",
-      "photo": "https://cdn.pixabay.com/photo/2016/10/18/09/02/hotel-1749602_960_720.jpg",
+      "photo": "https://cdn.pixabay.com/photo/2017/01/14/12/48/hotel-1979406_960_720.jpg",
       "beds": 2,
       "guests": 4,
       "price": 340
