@@ -3,7 +3,7 @@
   "rooms": [
     {
       "id": 1,
-      "name": "Pokój unarny",
+      "name": "Pokój unarn",
       "photo": "https://cdn.pixabay.com/photo/2016/10/18/09/02/hotel-1749602_960_720.jpg",
       "beds": 1,
       "guests": 1,
