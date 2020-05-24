@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "Pokój trójkowy",
-      "photo": "https://cdn.pixabay.com/photo/2016/10/18/09/02/hotel-1749602_960_720.jpg",
+      "photo": "https://cdn.pixabay.com/photo/2016/09/18/03/28/travel-1677347_960_720.jpg",
       "beds": 2,
       "guests": 3,
       "price": 290
@@ -38,6 +38,7 @@
     {
       "id": 1,
       "name": "Masaż rozgrzanym monitorem",
+      "photo": "https://cdn.pixabay.com/photo/2018/02/27/03/36/spa-3184610_960_720.jpg",
       "area": "back",
       "time": 30,
       "price": 80
@@ -45,6 +46,7 @@
     {
       "id": 2,
       "name": "Biczowanie kablem od myszy",
+      "photo": "https://cdn.pixabay.com/photo/2013/09/24/14/23/singing-bowls-185789_960_720.jpg",
       "area": "back",
       "time": 20,
       "price": 70
@@ -52,6 +54,7 @@
     {
       "id": 3,
       "name": "Peeling odłamkami płyty CD",
+      "photo": "https://cdn.pixabay.com/photo/2018/11/15/02/41/essential-oil-3816410_960_720.jpg",
       "area": "face",
       "time": 15,
       "price": 50
@@ -59,6 +62,7 @@
     {
       "id": 4,
       "name": "Pedicure woskiem z USB",
+      "photo": "https://cdn.pixabay.com/photo/2014/07/01/12/25/queer-381217_960_720.jpg",
       "area": "legs",
       "time": 25,
       "price": 100
@@ -66,6 +70,7 @@
     {
       "id": 5,
       "name": "Manicure analogowo-cyfrowy",
+      "photo": "https://cdn.pixabay.com/photo/2017/08/06/00/41/people-2587157_960_720.jpg",
       "area": "hands",
       "time": 45,
       "price": 150
@@ -73,6 +78,7 @@
     {
       "id": 6,
       "name": "Kąpiel w gorącej kawie",
+      "photo": "https://cdn.pixabay.com/photo/2017/04/25/08/02/coffee-beans-2258839_960_720.jpg",
       "area": "body",
       "time": 60,
       "price": 200
@@ -80,6 +86,7 @@
     {
       "id": 7,
       "name": "Depilacja dyskiem twardym",
+      "photo": "https://cdn.pixabay.com/photo/2013/09/25/13/57/feet-186238_960_720.jpg",
       "area": "body",
       "time": 45,
       "price": 120
